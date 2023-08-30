@@ -1,0 +1,27 @@
+@prefix ns1: <http://purl.obolibrary.org/obo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:MFOEM_000208 a ns1:MFOEM_000194 ;
+    ns1:y 7.523077e+00 .
+
+ns1:MFOEM_000194 rdfs:subClassOf ns1:BFO_0000144 .
+
+@prefix ns1: <http://purl.obolibrary.org/obo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:MFOEM_000207 a ns1:MFOEM_000194 ;
+    ns1:y 7.654945e+00 .
+
+ns1:MFOEM_000194 rdfs:subClassOf ns1:BFO_0000144 .
+
+@prefix ns1: <http://purl.obolibrary.org/obo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:MFOEM_000207 a ns1:MFOEM_000194 ;
+    ns1:y 5.736262e-01 .
+
+ns1:MFOEM_000194 rdfs:subClassOf ns1:BFO_0000144 .
+
